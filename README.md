@@ -5,7 +5,9 @@ across the world. You can send text, images, videos, you can even edit and delet
 
 ## Screenshots
 
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg)
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg" width="200" height="200" />
+
+![App Screenshot]()
 ![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
 ![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(11).jpg)
 ![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg)
