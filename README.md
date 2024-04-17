@@ -5,18 +5,17 @@ across the world. You can send text, images, videos, you can even edit and delet
 
 ## Screenshots
 
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg)
 ![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
-![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(11).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(3).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(8).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(2).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(9).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(4).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(5).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(6).jpg)
 
 ## Features
 
