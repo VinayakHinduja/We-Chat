@@ -5,7 +5,18 @@ across the world. You can send text, images, videos, you can even edit and delet
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
+![App Screenshot](https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg)
 
 ## Features
 
@@ -40,10 +51,6 @@ across the world. You can send text, images, videos, you can even edit and delet
 - [flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons)
 
 #### Get all items
-
-```http
-  GET /api/items
-```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
