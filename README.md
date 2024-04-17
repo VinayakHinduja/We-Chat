@@ -37,8 +37,7 @@ across the world. You can send text, images, videos, you can even edit and delet
 
 ## Screenshots
 
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg" width="400" height="600" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg" width="400" height="600" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg" width="400" height="600" /> <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg" width="400" height="600" />
 <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(11).jpg" width="400" height="600" />
 <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg" width="400" height="600" />
 <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(3).jpg" width="400" height="600" />
