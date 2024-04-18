@@ -50,6 +50,45 @@ across the world. You can send text, images, videos, you can even edit and delet
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(4).jpg" width="300" height="450" /></td>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(5).jpg" width="300" height="450" /></td>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(6).jpg" width="300" height="450" /></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(7).jpg" width="300" height="450" /></td>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(8).jpg" width="300" height="450" /></td>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(9).jpg" width="300" height="450" /></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg" width="300" height="450" /></td>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(11).jpg" width="300" height="450" /></td>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg" width="300" height="450" /></td>
+  </tr>
+ </table>
+
 <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg" width="300" height="450" />
 <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(2).jpg" width="300" height="450" />  
 <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(3).jpg" width="300" height="450" />
