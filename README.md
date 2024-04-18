@@ -39,9 +39,9 @@ across the world. You can send text, images, videos, you can even edit and delet
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+      <td>Login Screen</td>
+      <td>Home Screen</td>
+      <td>Add User Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg" width="300" height="450" /></td>
@@ -52,9 +52,9 @@ across the world. You can send text, images, videos, you can even edit and delet
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>Chat Screen</td>
+     <td>Chat Screen</td>
+     <td>Emoji Keyboard</td>
   </tr>
   <tr>
     <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(4).jpg" width="300" height="450" /></td>
@@ -65,9 +65,9 @@ across the world. You can send text, images, videos, you can even edit and delet
  
  <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>More options on Image</td>
+     <td>More options on a message</td>
+     <td>More options on other users message</td>
   </tr>
   <tr>
     <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(7).jpg" width="300" height="450" /></td>
@@ -78,9 +78,9 @@ across the world. You can send text, images, videos, you can even edit and delet
 
  <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>Message Update</td>
+     <td>Edit Profile Screen</td>
+     <td>Viewing Other users profile</td>
   </tr>
   <tr>
     <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg" width="300" height="450" /></td>
@@ -89,20 +89,14 @@ across the world. You can send text, images, videos, you can even edit and delet
   </tr>
  </table>
 
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(2).jpg" width="300" height="450" />  
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(3).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(4).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(5).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(6).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(7).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(8).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(9).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(11).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg" width="300" height="450" />
-<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(13).jpg" width="300" height="450" />
-
+ <table>
+  <tr>
+    <td>Viewing Other users profile</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(13).jpg" width="300" height="450" /></td>
+  </tr>
+ </table>
 
 ### Get all items
 
