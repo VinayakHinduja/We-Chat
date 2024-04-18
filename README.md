@@ -3,10 +3,6 @@
 We Chat is a messaging app. It’s simple, reliable, and private, so you can easily keep in touch with your friends and family. WeChat works across mobiles even on slow connections. Private messaging
 across the world. You can send text, images, videos, you can even edit and delete those messages, have a profile pic, etc. 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 ## Features
 
 - Fullscreen mode.
@@ -39,11 +35,20 @@ across the world. You can send text, images, videos, you can even edit and delet
 - [Flutter Toast](https://pub.dev/packages/fluttertoast)
 - [flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons)
 
-#### Get all items
+## Screenshots
 
-```http
-  GET /api/items
-```
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(12).jpg" width="350" height="500" /> <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(1).jpg" width="350" height="500" />  <img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(11).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(10).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(3).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(8).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(2).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(9).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(4).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(5).jpg" width="350" height="500" />
+<img src="https://github.com/VinayakHinduja/We-Chat/blob/main/ss/Screenshot_2024%20(6).jpg" width="350" height="500" />
+
+
+### Get all items
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
